@@ -1,6 +1,6 @@
 [package]
 name = "charliey2/profileservice"
-version = "1.1.0"
+version = "1.2.0"
 registry = "https://github.com/UpliftGames/wally-index"
 authors = ["loleris"]
 description = "Forked version of ProfileService for use with Wally."
