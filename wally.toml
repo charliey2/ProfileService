@@ -5,7 +5,7 @@ registry = "https://github.com/UpliftGames/wally-index"
 authors = ["loleris"]
 description = "Forked version of ProfileService for use with Wally."
 realm = "shared"
-licence = "Apache-2.0"
+license = "Apache License 2.0"
 exclude = ["**"]
 include = [
     "default.project.json",
